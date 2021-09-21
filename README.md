@@ -5,15 +5,15 @@
 
 ## 個人開発
 
-| [TechSpot](https://techspot.jp/) | [video-book-maker](https://aiandrox.github.io/emoji-typing/) | [勤怠システム](https://aiandrox.github.io/ultra_timer/) | [reviewee](https://like-ranking.web.app) 
+| [TechSpot](https://techspot.jp/) | [video-book-maker](https://video-book-maker.com/) | [勤怠システム](https://aiandrox.github.io/ultra_timer/) | [reviewee](https://like-ranking.web.app) 
 | :---------- | :-------- | :---------- | :----------- |
-| あなたはカラーコードから色を当てられるか？ 最高難度のいろおにに挑め。<br>GWファラオイベント参加 | 絵文字を入力する→絵文字が落ちてくる。<br>web1week参加 | 1月1日0時0分にｳﾙﾄﾗｿｳｯ ＼ﾊｧｲ／を成功させたら あなたはウルトラソウル。<br>クソアプリアドベントカレンダー参加 | 面倒くさがりツイッ-タラーが ハッシュタグを登録するだけで継続を可視化できる Twitter連携型 学習記録サービス。 |
+| プログラミングに関する質問・回答サービス。<br> | YouTubeにある動画をカテゴリごとにブックマークできる。<br> | 出退勤をシステムで管理。<br>権限ごとにユーザ作成可能。 | アプリをレビューしあうことのできるアプリ。 |
 | Ruby on Rails, Vue.js | Ruby on Rails, AWS | Ruby on Rails, JavaScript | Ruby on Rails  |
 
 
 ## チーム開発
 
-| [オンラインビジット](https://techspot.jp/) |
+| [オンラインビジット](https://techspot.jp/) 
 | :---------- |
-| あなたはカラーコードか。<br>GWファラオイベント参加 | 絵文字を入力する→<br>web1week参加 | 1月ー参加 |
+| 介護施設向けのビデオ通話・予約管理システム。 |
 | Ruby on Rails, AWS |
