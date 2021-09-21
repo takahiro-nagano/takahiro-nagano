@@ -13,7 +13,7 @@
 
 ## チーム開発
 
-| [オンラインビジット](https://techspot.jp/) 
+| [オンラインビジット](https://family-online-visit.herokuapp.com/) 
 | :---------- |
 | 介護施設向けのビデオ通話・予約管理システム。 |
 | Ruby on Rails, AWS |
