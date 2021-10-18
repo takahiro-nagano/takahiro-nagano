@@ -5,7 +5,7 @@
 
 ## 個人開発
 
-| [TechSpot](https://techspot.jp/) | [video-book-maker](https://video-book-maker.com/) | [勤怠システム](https://aiandrox.github.io/ultra_timer/) | [reviewee](https://like-ranking.web.app) 
+| [TechSpot](https://techspot.jp/) | [video-book-maker](https://video-book-maker.com/) | [勤怠システム]("") | [reviewee]("") 
 | :---------- | :-------- | :---------- | :----------- |
 | プログラミングに関する質問・回答サービス。<br> | YouTubeにある動画をカテゴリごとにブックマークできる。<br> | 出退勤をシステムで管理。<br>権限ごとにユーザ作成可能。 | アプリをレビューしあうことのできるアプリ。 |
 | Ruby on Rails, Vue.js | Ruby on Rails, AWS | Ruby on Rails, JavaScript | Ruby on Rails  |
