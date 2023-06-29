@@ -3,17 +3,17 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takahiro-nagano&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takahiro-nagano&theme=nord_dark)
 
-## 個人開発
+## Solo
 
-| [TechSpot](https://techspot.jp/) | [video-book-maker](https://video-book-maker.com/) | [勤怠システム]("") | [reviewee]("") 
-| :---------- | :-------- | :---------- | :----------- |
-| プログラミングに関する質問・回答サービス。<br> | YouTubeにある動画をカテゴリごとにブックマークできる。<br> | 出退勤をシステムで管理。<br>権限ごとにユーザ作成可能。 | アプリをレビューしあうことのできるアプリ。 |
-| Ruby on Rails, Vue.js | Ruby on Rails, AWS | Ruby on Rails, JavaScript | Ruby on Rails  |
+| [Calendar Notion](https://apps.apple.com/jp/app/calendar-notion/id1668529031) | [Notiz](https://lin.ee/3eCFsQp) | [TechSpot](https://qiita.com/tta80962240/items/1f7e9a9eabf083d80382) | [video-book-maker](https://video-book-maker.com/) | [Attendance system]("") | [reviewee]("") 
+| :---------- | :---------- | :---------- | :-------- | :---------- | :----------- |
+| calendar app integrated with Notion. | LINE Bot integrated with Notion. | question and answer service related to programming.<br> | You can bookmark videos on YouTube by category.<br> | Attendance management system. | An app where you can review each other's apps. |
+| flutter, firebase | Ruby, lambda | Ruby on Rails, Vue.js | Ruby on Rails, AWS | Ruby on Rails, JavaScript | Ruby on Rails  |
 
 
-## チーム開発
+## Team
 
-| [オンラインビジット](https://family-online-visit.herokuapp.com/) 
+| [online visit](https://family-online-visit.herokuapp.com/) 
 | :---------- |
-| 介護施設向けのビデオ通話・予約管理システム。 |
+| A video call and reservation management system for nursing care facilities. |
 | Ruby on Rails, AWS |
